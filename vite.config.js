@@ -11,11 +11,21 @@ const APP_VERSION = "4";
 
 export default defineConfig(({ mode }) => {
     const isDev = mode === "development";
-    const base = process.env.VITE_BASE_NETLIFY || (isDev ? "/" : "/cuttherope-h5dx");
-    const enablePWA = !process.env.VITE_BASE_NETLIFY;
-
+     
+    let base = "/"; 
+    if (!isDev) {
+        if (process.env.VITE_BASE_NETLIFY || process.env.VERCEL) {
+            base = "/";
+        } else {
+            base = "/cuttherope-h5dx";
+        }
+    }
+    
+    const enablePWA = base === "/";
+    // -----------------------------------------------------------
+    
     return {
-        base: base,
+        base: base, 
         plugins: [
             enablePWA &&
                 VitePWA({
@@ -30,8 +40,8 @@ export default defineConfig(({ mode }) => {
                         short_name: "Cut the Rope: H5DX",
                         description:
                             "Play Cut the Rope! A mysterious package has arrived, and the little monster inside has only one request… CANDY!",
-                        start_url: `/${base}/`,
-                        scope: `/${base}/`,
+                        start_url: `${base}index.html`, 
+                        scope: base,
                         display: "standalone",
                         theme_color: "#000000",
                         background_color: "#000000",
@@ -53,7 +63,7 @@ export default defineConfig(({ mode }) => {
                             "**/*.{js,css,html,ico,png,svg,jpg,jpeg,gif,webp,json,woff,woff2,ttf,cur,mp3,ogg}",
                         ],
                         maximumFileSizeToCacheInBytes: 10 * 1024 * 1024, // 10 MB
-                        //navigateFallback: `/${base}/index.html`,
+                        // navigateFallback: `${base}index.html`, // Điều chỉnh cho phù hợp với Base Path
                         cleanupOutdatedCaches: true,
                         runtimeCaching: [
                             {
