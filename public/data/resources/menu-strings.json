@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "en": "Chơi ngay",
+    "en": "Choi Ngay",
     "zh": "玩游戏",
     "ja": "プレイ",
     "ko": "플레이",
@@ -16,7 +16,7 @@
   },
   {
     "id": 1,
-    "en": "Tùy chọn",
+    "en": "Cai Dat",
     "zh": "选项",
     "ja": "オプション",
     "ko": "환경설정",
@@ -31,7 +31,7 @@
   },
   {
     "id": 2,
-    "en": "Thêm nữa",
+    "en": "Extras",
     "ja": "エクストラ",
     "zh": "额外内容",
     "ko": "부가 기능",
@@ -46,7 +46,7 @@
   },
   {
     "id": 3,
-    "en": "Chế độ bonus",
+    "en": "Bonus mode",
     "ko": "보너스 모드",
     "fr": "Mode bonus",
     "de": "Bonusmodus",
@@ -61,7 +61,7 @@
   },
   {
     "id": 4,
-    "en": "Bản đầy đủ",
+    "en": "Full version",
     "es": "Version completa",
     "fr": "Version complète",
     "de": "Vollversion",
@@ -76,7 +76,7 @@
   },
   {
     "id": 5,
-    "en": "Chơi lại từ đầu",
+    "en": "Reset game",
     "zh": "重置游戏",
     "ja": "リセット",
     "ko": "게임 초기화",
@@ -91,7 +91,7 @@
   },
   {
     "id": 6,
-    "en": "Hướng dẫn",
+    "en": "Help",
     "fr": "Aide",
     "de": "Hilfe",
     "ru": "Помощь",
@@ -106,7 +106,7 @@
   },
   {
     "id": 7,
-    "en": "Giới thiệu",
+    "en": "About",
     "fr": "À propos",
     "de": "Über",
     "ru": "Об игре",
@@ -121,7 +121,7 @@
   },
   {
     "id": 8,
-    "en": "Thành phần",
+    "en": "Credits",
     "es": "Creditos",
     "fr": "Crédits",
     "de": "Mitwirkende",
@@ -136,7 +136,7 @@
   },
   {
     "id": 9,
-    "en": "Nhạc: Bật",
+    "en": "Music on",
     "zh": "音乐打开",
     "ja": "音楽：*オン",
     "ko": "배경음 켜기",
@@ -151,7 +151,7 @@
   },
   {
     "id": 10,
-    "en": "Nhạc: Tắt",
+    "en": "Music off",
     "zh": "音乐关闭",
     "ja": "音楽：*オフ",
     "ko": "배경음 끄기",
@@ -166,7 +166,7 @@
   },
   {
     "id": 11,
-    "en": "Âm thanh: Bật",
+    "en": "Sounds on",
     "zh": "声音打开",
     "ja": "効果音：*オン",
     "ko": "효과음 켜기",
@@ -181,7 +181,7 @@
   },
   {
     "id": 12,
-    "en": "Âm thanh: Tắt",
+    "en": "Sounds off",
     "ja": "効果音：*オフ",
     "zh": "声音关闭",
     "ko": "효과음 끄기",
@@ -196,7 +196,7 @@
   },
   {
     "id": 13,
-    "en": "Bạn chắc chắn muốn xóa hết tiến độ chơi chứ?",
+    "en": "Are you sure you want to reset your progress?",
     "zh": "你确定要*重置游戏*进度吗？",
     "ja": "本当に*リセット*しますか？",
     "ko": "게임을 초기화하시겠습니까?",
@@ -211,7 +211,7 @@
   },
   {
     "id": 14,
-    "en": "Tạm được!",
+    "en": "Passable!",
     "zh": "马马虎虎！",
     "ja": "まずまず!",
     "ko": "간신히 통과!",
@@ -226,7 +226,7 @@
   },
   {
     "id": 15,
-    "en": "Tốt!",
+    "en": "Good!",
     "zh": "好！",
     "ja": "グッド!",
     "ko": "좋아요!",
@@ -241,7 +241,7 @@
   },
   {
     "id": 16,
-    "en": "Tuyệt!",
+    "en": "Great!",
     "zh": "真棒！",
     "ja": "グレート!",
     "ko": "잘 했어요!",
@@ -256,7 +256,7 @@
   },
   {
     "id": 17,
-    "en": "Xuất sắc!",
+    "en": "Excellent!",
     "zh": "好极了！",
     "ja": "最高!",
     "ko": "아주 잘 했어요!",
@@ -271,7 +271,7 @@
   },
   {
     "id": 18,
-    "en": "Màn",
+    "en": "Level",
     "zh": "关卡",
     "ja": "レベル",
     "ko": "레벨",
@@ -286,7 +286,7 @@
   },
   {
     "id": 19,
-    "en": "Thời gian",
+    "en": "Time",
     "zh": "时间",
     "ja": "タイム",
     "ko": "시간",
@@ -301,7 +301,7 @@
   },
   {
     "id": 20,
-    "en": "Thưởng sao",
+    "en": "Star Bonus",
     "zh": "星星奖励",
     "ja": "スターボーナス",
     "ko": "보너스 별",
@@ -316,7 +316,7 @@
   },
   {
     "id": 21,
-    "en": "Điểm cuối cùng",
+    "en": "Your Final Score",
     "zh": "你的*最终得分",
     "ja": "あなたの*最終*スコア",
     "ko": "최종 점수",
@@ -331,7 +331,7 @@
   },
   {
     "id": 22,
-    "en": "Kỷ lục",
+    "en": "Best Score",
     "zh": "最佳得分",
     "ja": "ベスト*スコア",
     "ko": "최고 점수",
@@ -346,7 +346,7 @@
   },
   {
     "id": 23,
-    "en": "Điểm",
+    "en": "Score",
     "zh": "得分",
     "ja": "スコア",
     "ko": "점수",
@@ -361,7 +361,7 @@
   },
   {
     "id": 24,
-    "en": "Có",
+    "en": "Yes",
     "zh": "是",
     "ja": "はい",
     "ko": "예",
@@ -376,7 +376,7 @@
   },
   {
     "id": 25,
-    "en": "Không",
+    "en": "No",
     "zh": "否",
     "ja": "いいえ",
     "ko": "아니요",
@@ -391,7 +391,7 @@
   },
   {
     "id": 26,
-    "en": "Chơi lại",
+    "en": "Replay",
     "zh": "重玩",
     "ja": "やり直す",
     "ko": "다시 하기",
@@ -406,7 +406,7 @@
   },
   {
     "id": 27,
-    "en": "Tiếp theo",
+    "en": "Next",
     "zh": "下一步",
     "ja": "次へ",
     "ko": "다음",
@@ -436,7 +436,7 @@
   },
   {
     "id": 29,
-    "en": "Đang tải...",
+    "en": "Loading...",
     "zh": "正在加载...",
     "ja": "ロード中...",
     "ko": "불러오는 중...",
@@ -451,7 +451,7 @@
   },
   {
     "id": 30,
-    "en": "Tổng: %d",
+    "en": "Total: %d",
     "zh": "合计： %d",
     "ja": "合計：%d",
     "ko": "총 점수: %d",
@@ -466,7 +466,7 @@
   },
   {
     "id": 31,
-    "en": "OK",
+    "en": "Ok",
     "zh": "确定",
     "ja": "OK",
     "ko": "확인",
@@ -481,7 +481,7 @@
   },
   {
     "id": 32,
-    "en": "Thu thập %d sao để mở hộp màn này nhé",
+    "en": "Collect %d stars to unlock this level pack",
     "zh": "收集 %d 颗*星星*才能解锁*这一*关卡集",
     "ja": "アンロック*するには* %d の*スターが*必要です",
     "ko": "이 레벨 상자를 열려면 별 %d개를 모으세요.",
@@ -496,7 +496,7 @@
   },
   {
     "id": 33,
-    "en": "Bạn còn thiếu",
+    "en": "You are missing",
     "zh": "你还需要",
     "ja": "アンロックには",
     "ko": "이 상자를 열려면",
@@ -511,7 +511,7 @@
   },
   {
     "id": 34,
-    "en": "để mở hộp này",
+    "en": "to unlock this box",
     "zh": "才能解锁*这个盒子",
     "ja": "が必要です",
     "ko": "개가 더 필요해요.",
@@ -526,7 +526,7 @@
   },
   {
     "id": 35,
-    "en": "Chơi lại mấy màn trước để kiếm thêm sao nha",
+    "en": "Get more stars from the earlier levels",
     "zh": "从先前的*关卡中*获取更多*星星",
     "ja": "前の*レベルで*スターを*もっと*獲得*しましょう",
     "ko": "이전 레벨에서 별을 더 모으세요.",
@@ -541,7 +541,7 @@
   },
   {
     "id": 37,
-    "en": "Mấy màn mới sẽ có trong bản cập nhật, quay lại sau nha!",
+    "en": "Check back for the new levels coming with the updates",
     "fr": "Revenez pour découvrir de nouveaux niveaux avec les mises à jour",
     "de": "Komm bald wieder, neue Level kommen mit den Updates",
     "ru": "Новые уровни будут добавляться с апдейтами",
@@ -556,7 +556,7 @@
   },
   {
     "id": 38,
-    "en": "Mở thành tích mới rồi nè!",
+    "en": "achievement gained!",
     "ru": ": достижение получено!",
     "fr": "succès obtenu !",
     "de": ": Erfolg errungen!",
@@ -571,7 +571,7 @@
   },
   {
     "id": 39,
-    "en": "Tiếp tục",
+    "en": "Continue",
     "zh": "继续",
     "ja": "続ける",
     "ko": "계속",
@@ -586,7 +586,7 @@
   },
   {
     "id": 40,
-    "en": "Bỏ qua màn",
+    "en": "Skip level",
     "zh": "跳过关卡",
     "ja": "スキップ",
     "ko": "레벨 건너뛰기",
@@ -601,7 +601,7 @@
   },
   {
     "id": 41,
-    "en": "Chọn màn",
+    "en": "Level select",
     "zh": "选择关卡",
     "ja": "レベル*選択",
     "ko": "레벨 선택",
@@ -616,7 +616,7 @@
   },
   {
     "id": 42,
-    "en": "Menu chính",
+    "en": "Main menu",
     "zh": "主菜单",
     "ja": "メイン*メニュー",
     "ko": "주 메뉴",
@@ -631,7 +631,7 @@
   },
   {
     "id": 56,
-    "en": "Ngôn ngữ",
+    "en": "Language",
     "ru": "Язык",
     "fr": "Langue",
     "de": "Sprache",
@@ -646,7 +646,7 @@
   },
   {
     "id": 49,
-    "en": "Kéo để cắt",
+    "en": "Drag to Cut",
     "fr": "Glisser",
     "de": "Ziehe: Schneide",
     "ru": "Перетаскиванием",
@@ -660,8 +660,23 @@
     "ca": "Arrossega"
   },
   {
+    "id": 50,
+    "en": "Click to Cut",
+    "fr": "Cliquer",
+    "de": "Klicke: Schneide",
+    "ru": "Щелчком",
+    "ko": "잘라 클릭",
+    "zh": "点击切",
+    "ja": "カットするためにクリック",
+    "es": "Haga clic",
+    "it": "Clicca",
+    "nl": "Klik",
+    "br": "Clique",
+    "ca": "Fes clic"
+  },
+  {
     "id": 43,
-    "en": "Chơi ngay thôi!",
+    "en": "Play it now",
     "ru": "Сыграть сейчас",
     "fr": "Jouer maintenant",
     "de": "Jetzt spielen",
@@ -676,7 +691,7 @@
   },
   {
     "id": 44,
-    "en": "Vui hơn nữa với Cut the Rope nào!",
+    "en": "More Cut the Rope fun!",
     "fr": "Toujours plus de Cut the Rope !",
     "de": "Mehr Cut the Rope Spaß!",
     "ru": "Еще больше веселья в игре Cut the Rope!",
@@ -691,7 +706,7 @@
   },
   {
     "id": 47,
-    "en": "Chia sẻ...",
+    "en": "Share...",
     "fr": "Partager...",
     "de": "Teilen...",
     "ru": "Поделиться...",
@@ -706,7 +721,7 @@
   },
   {
     "id": 45,
-    "en": "Chia sẻ",
+    "en": "Share",
     "fr": "Partager",
     "de": "Teilen",
     "ru": "Поделиться",
@@ -721,7 +736,7 @@
   },
   {
     "id": 63,
-    "en": "Chúc mừng nè!!!",
+    "en": "Congratulations!",
     "fr": "Félicitations!",
     "de": "Gratulation!",
     "ru": "Поздравляем!",
@@ -736,7 +751,7 @@
   },
   {
     "id": 36,
-    "en": "Bạn đã phá đảo game với %d sao luôn á!",
+    "en": "You completed the game with %d stars!",
     "fr": "Tu as terminé le jeu avec %d étoiles !",
     "de": "Du hast das Spiel mit %d Sternen beendet!",
     "ru": "Вы завершили игру со следующим количеством звезд: %d!",
@@ -751,7 +766,7 @@
   },
   {
     "id": 46,
-    "en": "Tui vừa tìm được một bức vẽ bí mật của Om Nom nè!",
+    "en": "I just found one of Om Nom's secret drawings!",
     "fr": "Je viens juste de trouver un des dessins secrets de Om Nom !",
     "de": "Ich habe gerade eine geheime Om-Nom-Zeichnung entdeckt!",
     "ru": "Мною только что был обнаружен один из тайных рисунков Ам Няма!",
@@ -766,7 +781,7 @@
   },
   {
     "id": 48,
-    "en": "Tìm được tranh rồi nè!",
+    "en": "You found a drawing!",
     "fr": "Tu as trouvé un dessin !",
     "de": "Du hast die Zeichnung gefunden!",
     "ru": "Вы обнаружили рисунок!",
@@ -781,7 +796,7 @@
   },
   {
     "id": 51,
-    "en": "Cho xem nào!",
+    "en": "Show Me",
     "fr": "Montre-moi",
     "de": "Zeig es mir",
     "ru": "Показать мне",
@@ -796,7 +811,7 @@
   },
   {
     "id": 52,
-    "en": "Tải miễn phí",
+    "en": "Free Download",
     "fr": "Téléchargement gratuit",
     "de": "Kostenloser Download",
     "ru": "Бесплатная загрузка",
@@ -811,7 +826,7 @@
   },
   {
     "id": 53,
-    "en": "Cut the Rope là trò chơi siêu vui, bạn sẽ cắt dây để cho kẹo rơi vào miệng con quái xanh siêu dễ thương tên Om Nom đó!",
+    "en": "Cut the Rope is a fun game where you feed candy to the curiously cute green monster Om-nom.",
     "fr": "Cut the Rope est un jeu amusant dans lequel tu dois nourrir Om Nom, un curieux petit monstre.",
     "de": "Cut the Rope ist ein lustiges Spiel, wobei du dem kuriosem, niedlichem Monster Om-nom Süßigkeiten fütterst.",
     "ru": "Cut the Rope   это веселая игра, в которой вы кормите сладостями любопытного и милого монстра по имени Ам Ням.",
@@ -826,7 +841,7 @@
   },
   {
     "id": 54,
-    "en": "Om Nom đã lên mạng – Cut the Rope bản web đây!",
+    "en": "Om Nom is Om Line - Cut the Rope for the Web",
     "fr": "Om Nom est om ligne - Cut the Rope version web",
     "de": "Om Nom ist Om Line - Cut the Rope für das Internet",
     "ru": "Ам Ням в Ам Лайне – веб-версия игры Cut the Rope",
@@ -841,7 +856,7 @@
   },
   {
     "id": 55,
-    "en": "Chơi ngay bản HTML5 của Cut the Rope nào!",
+    "en": "Play the HTML5 version of \"Cut the Rope\"!",
     "fr": "Joue à Cut the Rope dans sa version HTML5 !",
     "de": "Spiele die HTML5 Version von \"Cut the Rope\"!",
     "ru": "Играйте в HTML5-версию игры Cut the Rope!",
@@ -856,7 +871,7 @@
   },
   {
     "id": 57,
-    "en": "Giữ nút “Có” 3 giây để xóa hết tiến độ nhé",
+    "en": "Hold the \"yes\" button for 3 seconds to reset.",
     "fr": "Maintenir le doigt sur \"Oui\" pendant 3 secondes pour réinitialiser.",
     "de": "Halte zum Neustarten 3 Sekunden lang \"Ja\" gedrückt.",
     "ru": "Удерживайте \"Да\" в течение 3 секунд для сброса прогресса.",
@@ -871,7 +886,7 @@
   },
   {
     "id": 60,
-    "en": "Tắt hết luôn",
+    "en": "everything off",
     "fr": "tout couper",
     "de": "alles aus",
     "ru": "все отключено",
@@ -886,7 +901,7 @@
   },
   {
     "id": 58,
-    "en": "Tải lại game chất lượng thường",
+    "en": "reload the game in SD",
     "fr": "recharger le jeu en SD",
     "de": "Spiel in SD neu laden",
     "ru": "перезагрузить игру в SD",
@@ -901,7 +916,7 @@
   },
   {
     "id": 59,
-    "en": "Tải lại game chất lượng cao",
+    "en": "reload the game in HD",
     "fr": "recharger le jeu en HD",
     "de": "Spiel in HD neu laden",
     "ru": "перезагрузить игру в HD",
@@ -916,7 +931,7 @@
   },
   {
     "id": 61,
-    "en": "Chậm quá trời luôn...",
+    "en": "A Little Too Slow...",
     "fr": "Un peu trop lent",
     "de": "Etwas zu langsam...",
     "ru": "Как-то не очень быстро...",
@@ -931,7 +946,7 @@
   },
   {
     "id": 62,
-    "en": "Om Nom buồn thiu vì máy bạn chạy chậm quá trời. Bọn mình cố hết sức rồi nhưng chắc vẫn hơi giật lag chút xíu nha :(",
+    "en": "Om Nom is sad because your computer is running slow. We'll do our best, but there may be some slow-downs.",
     "fr": "Om Nom est triste. Votre ordinateur est très lent. Nous ferons notre mieux, mais il est possible que le jeu ralentisse.",
     "de": "Om Nom ist traurig, weil dein Computer so langsam ist. Wir geben unser Bestes, aber es kann trotzdem zu Verzögerungen kommen.",
     "ru": "Ам Ням опечален: у вас слишком медленный компьютер. Мы, конечно, постараемся, но игра у вас может \"притормаживать\".",
@@ -946,7 +961,7 @@
   },
   {
     "id": 64,
-    "en": "Nhạc",
+    "en": "Music",
     "nl": "Muziek",
     "it": "Musica",
     "ca": "Música",
@@ -961,7 +976,7 @@
   },
   {
     "id": 65,
-    "en": "Âm thanh",
+    "en": "Sounds",
     "nl": "Geluid",
     "it": "Suoni",
     "ca": "Sons",
@@ -976,7 +991,7 @@
   },
   {
     "id": 66,
-    "en": "Bảng xếp hạng",
+    "en": "Leaderboards",
     "fr": "Classements",
     "de": "Bestenlisten",
     "ru": "Таблица рекордов",
@@ -991,7 +1006,7 @@
   },
   {
     "id": 67,
-    "en": "Thành tích",
+    "en": "Achievements",
     "fr": "Succès",
     "de": "Erfolge",
     "ru": "Достижения",
@@ -1006,7 +1021,7 @@
   },
   {
     "id": 68,
-    "en": "Mở thành tích mới nè!",
+    "en": "Achievement unlocked!",
     "fr": "Succès débloqué !",
     "de": "Erfolg freigeschaltet!",
     "ru": "Новое достижение!",
@@ -1021,7 +1036,7 @@
   },
   {
     "id": 69,
-    "en": "Còn CỰC NHIỀU màn nữa\ntrong bản đầy đủ nha!",
+    "en": "Get MANY MORE\n levels in the full version",
     "fr": "De NOMBREUX autres niveaux\n sont disponibles dans la version complète!",
     "de": "In der Vollversion gibt\n es noch VIEL MEHR Level!",
     "ru": "Получите НАМНОГО БОЛЬШЕ\n уровней в полной версии!",
@@ -1036,7 +1051,7 @@
   },
   {
     "id": 70,
-    "en": "Tên",
+    "en": "Name",
     "fr": "Nom",
     "de": "Name",
     "ru": "Имя",
@@ -1066,7 +1081,7 @@
   },
   {
     "id": 72,
-    "en": "Mua bản đầy đủ",
+    "en": "Buy Full Game",
     "fr": "Acheter le jeu complet",
     "de": "Vollversion kaufen",
     "ru": "Купить полную версию",
@@ -1081,7 +1096,7 @@
   },
   {
     "id": 200,
-    "en": "Cài đặt",
+    "en": "Settings",
     "fr": "Paramètres",
     "de": "Einstellungen",
     "ru": "Настройки",
@@ -1096,7 +1111,7 @@
   },
   {
     "id": 201,
-    "en": "Quyền riêng tư",
+    "en": "Privacy",
     "fr": "Vie privée",
     "de": "Datenschutz",
     "ru": "Конфиденциальность",
@@ -1111,7 +1126,7 @@
   },
   {
     "id": 202,
-    "en": "Mùa lễ hội hết rồi á!",
+    "en": "Holiday season is over!",
     "fr": "La saison des fêtes est terminée !",
     "de": "Die Feiertagssaison ist vorbei!",
     "ru": "Праздничный сезон окончен!",
@@ -1126,7 +1141,7 @@
   },
   {
     "id": 203,
-    "en": "Mấy màn lễ hội sẽ quay lại vào dịp lễ thôi, quay lại sau nha bạn!",
+    "en": "These festive levels return during the holiday season. Please come back later!",
     "fr": "Ces niveaux festifs reviennent pendant la saison des fêtes. Revenez plus tard !",
     "de": "Diese festlichen Level kehren in der Weihnachtszeit zurück. Bitte komme später wieder!",
     "ru": "Эти праздничные уровни возвращаются в праздничный сезон. Пожалуйста, возвращайтесь позже!",
