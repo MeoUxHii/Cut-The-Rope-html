@@ -63,8 +63,8 @@ To test the game locally during the development process, follow these steps:
 2. Clone the repository to your PC:
 
     ```bash
-    git clone https://github.com/yell0wsuit/cuttherope-h5dx.git
-    cd cuttherope-h5dx
+    git clone https://github.com/MeoUxHii/Cut-The-Rope-html.git
+    cd cuttherope-html
     ```
 
     You can also use [GitHub Desktop](https://desktop.github.com/) for ease of cloning.
