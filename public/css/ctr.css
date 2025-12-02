@@ -241,7 +241,10 @@ a:focus {
     font-weight: 400;
     font-style: normal;
 }
-
+body, #gameContainer, .font-text, .mBtn, .fBtn, .sBtn,
+#menuMsg, #resultScore, #resultImproved, #resetText, #missingLine1, #missingLine2, #missingLine3, #holidayLine1, #holidayLine2 {
+    font-family: 'gooddognew', 'gooddogplain', sans-serif !important; 
+}
 body {
     background-image: url(../images/page/tilebg.jpg);
     background-repeat: repeat;
